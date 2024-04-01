@@ -11,7 +11,7 @@ public class AreaQuadrado {
         int Numerolado = scanner.nextInt();
 
         // Calcular a area do quadrado 
-        int resultadoarea = 2 * Numerolado;
+        int resultadoarea = Numerolado * Numerolado;
 
         // Exibe o resultado para o usuário
         System.out.println("A área do quadrado = " + resultadoarea);
