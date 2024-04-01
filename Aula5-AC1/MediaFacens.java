@@ -23,7 +23,7 @@ public class MediaFacens {
         double AF = scanner.nextDouble();
 
         // Calcula a média dos números 
-        double resultado = (AC1 * 0.15) + (AC2 * 0.30) + (AG * 0.10) + (AF * 0.45)/1;
+        double resultado = (AC1 * 0.15) + (AC2 * 0.30) + (AG * 0.10) + (AF * 0.45);
 
         // Exibe o resultado para o usuário
         System.out.println("A média é " + resultado);
